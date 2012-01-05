@@ -1,0 +1,2 @@
+C:\Users\ahmet\Desktop\NDP\Puzzle\obj\Debug\JigsawCS.exe
+C:\Users\ahmet\Desktop\NDP\Puzzle\obj\Debug\JigsawCS.pdb

@@ -1,0 +1,12 @@
+C:\Users\ahmet\Desktop\Temporaries\JigsawCS\JigsawCS\bin\Release\JigsawCS.exe
+C:\Users\ahmet\Desktop\Temporaries\JigsawCS\JigsawCS\bin\Release\JigsawCS.pdb
+C:\Users\ahmet\Desktop\Temporaries\JigsawCS\JigsawCS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ahmet\Desktop\Temporaries\JigsawCS\JigsawCS\obj\Release\JigsawCS.jigsaw.resources
+C:\Users\ahmet\Desktop\Temporaries\JigsawCS\JigsawCS\obj\Release\JigsawCS.hakkinda.resources
+C:\Users\ahmet\Desktop\Temporaries\JigsawCS\JigsawCS\obj\Release\JigsawCS.Properties.Resources.resources
+C:\Users\ahmet\Desktop\Temporaries\JigsawCS\JigsawCS\obj\Release\JigsawCS.Puzzle.resources
+C:\Users\ahmet\Desktop\Temporaries\JigsawCS\JigsawCS\obj\Release\JigsawCS.SkorGir.resources
+C:\Users\ahmet\Desktop\Temporaries\JigsawCS\JigsawCS\obj\Release\ResGen.read.1.tlog
+C:\Users\ahmet\Desktop\Temporaries\JigsawCS\JigsawCS\obj\Release\ResGen.write.1.tlog
+C:\Users\ahmet\Desktop\Temporaries\JigsawCS\JigsawCS\obj\Release\JigsawCS.exe
+C:\Users\ahmet\Desktop\Temporaries\JigsawCS\JigsawCS\obj\Release\JigsawCS.pdb

@@ -1,0 +1,8 @@
+test1 2
+test3 2
+ahmet 12
+ahmet 1
+josh 2
+jane 0
+neuman 5
+asd 0
